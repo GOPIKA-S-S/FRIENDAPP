@@ -1,0 +1,14 @@
+{
+  "name": "friendbe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "friend.js",
+  "scripts": {
+    "test": "node friend.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
